@@ -44,3 +44,13 @@ const exampleCode = () => {
  // Your code here
 };
 
+
+## Installation
+
+Clone this repository.
+
+Install the necessary dependencies with:
+
+   ```npm install```
+
+Configure environment variables as needed.
