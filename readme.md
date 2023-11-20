@@ -43,14 +43,4 @@ Provide a more detailed description of your project here. Explain its purpose, g
 const exampleCode = () => {
  // Your code here
 };
-
-
-## Installation
-
-Clone this repository.
-
-Install the necessary dependencies with:
-
-   ```npm install```
-
-Configure environment variables as needed.
+```
